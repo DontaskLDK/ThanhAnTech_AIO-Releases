@@ -1,6 +1,1 @@
-{
-  "notes": "12.8.58: sua crash khoi dong khi chua co diag_last; tieu de nhom CHAN QUANG CAO len tren cac extension; tab Tu them tu hien thu muc bo cai trong Soft (Zalo, WinRAR...) de cai duoc ngay; tang phien ban hien thi len V2.1.",
-  "sha256": "686b583d6b4f319d67e43d0bfaf091a5428d235fa2211947d3e59af8879bf53d",
-  "url": "https://github.com/DontaskLDK/ThanhAnTech_AIO-Releases/releases/download/v12.8.58/ThanhAnTech_AIO_V2_1_UX.exe",
-  "version": "12.8.58"
-}
+{"notes":"12.8.59: bo the kiem tra cap nhat thu cong (tu cap nhat da chay thanh cong V2.0 -> V2.1); mo tool la tu kiem tra cap nhat trong am tham, chi bao khi co ban moi; dia chi cap nhat cu (repo rieng tu) da luu trong cai dat thi bi bo qua, dung dia chi moi; tab Tu them chi hien thu muc bo cai trong Soft\\Custom, khong hien thu muc goc Soft nua; tang phien ban hien thi len V2.2.","sha256":"f1588f3d03faa2c3debd37d95b4b9ac03754b816a3b500c3d8debc1a753148e7","url":"https://github.com/DontaskLDK/ThanhAnTech_AIO-Releases/releases/download/v12.8.59/ThanhAnTech_AIO_V2_2_UX.exe","version":"12.8.59"}
