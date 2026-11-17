@@ -1,6 +1,6 @@
 {
-  "version": "12.8.57",
-  "url": "https://github.com/DontaskLDK/ThanhAnTech_AIO-Releases/releases/download/v12.8.57/ThanhAnTech_AIO_V2_0_UX.exe",
-  "notes": "12.8.57: 9 muc OneDrive + 8 app Store cai san chi go qua Go TAT CA, khong con dong rieng trong danh sach rac; tang phien ban hien thi len V2.0.",
-  "sha256": ""
+  "notes": "12.8.58: sua crash khoi dong khi chua co diag_last; tieu de nhom CHAN QUANG CAO len tren cac extension; tab Tu them tu hien thu muc bo cai trong Soft (Zalo, WinRAR...) de cai duoc ngay; tang phien ban hien thi len V2.1.",
+  "sha256": "",
+  "url": "https://github.com/DontaskLDK/ThanhAnTech_AIO-Releases/releases/download/v12.8.58/ThanhAnTech_AIO_V2_1_UX.exe",
+  "version": "12.8.58"
 }
